@@ -1,0 +1,22 @@
+[
+{
+    "name" : "Ajinkya",
+    "age" : 20,
+    "city" : "Pune"
+},
+{
+    "name" : "Ram",
+    "age" : 15,
+    "city" : "Latur"
+},
+{
+    "name" : "Seeta",
+    "age" : 35,
+    "city" : "Nashik"
+},
+{
+    "name" : "Swapnil",
+    "age" : 23,
+    "city" : "Nagpur"
+}
+]
